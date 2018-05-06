@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Roundy In Flatworld</string>
+    <string name="restart">Restart Game</string>
+    <string name="add_roundy">Add Roundy</string>
+    <string name="no_collisions">No collisions for this roundy. Select another one or restart game.</string>
+    <string name="died">%s died!</string>
+    <string name="busy">Busy, please wait move end.</string>
+</resources>

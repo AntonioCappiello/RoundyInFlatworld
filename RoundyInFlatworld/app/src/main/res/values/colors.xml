@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- https://material.io/guidelines/style/color.html -->
+    <color name="red700">#D32F2F</color>
+    <color name="green700">#388E3C</color>
+    <color name="yellow800">#F9A825</color>
+    <color name="teal600">#00897B</color>
+    <color name="red800">#C62828</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="cellBg">@color/white</color>
+
+    <color name="positiveButton">@color/colorPrimaryDark</color>
+    <color name="negativeButton">@color/teal600</color>
+
+    <color name="main_bg">#7986CB</color>
+
+
+</resources>

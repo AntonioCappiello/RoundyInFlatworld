@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gridLineWidth">1dp</dimen>
+    <dimen name="margin1x">4dp</dimen>
+    <dimen name="margin2x">8dp</dimen>
+    <dimen name="margin4x">16dp</dimen>
+    <dimen name="margin6x">24dp</dimen>
+</resources>
